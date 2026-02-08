@@ -1,0 +1,49 @@
+LOCUS       .                        465 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   <unknown id>
+VERSION     <unknown id>
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..465
+                     /role="constraint"
+                     /label="@cds"
+                     /color="#355c87"
+                     /ApEinfo_fwdcolor="#355c87"
+                     /ApEinfo_revcolor="#355c87"
+     misc_feature    1..465
+                     /role="constraint"
+                     /label="@No GGATCC"
+                     /color="#355c87"
+                     /ApEinfo_fwdcolor="#355c87"
+                     /ApEinfo_revcolor="#355c87"
+     misc_feature    1..465
+                     /role="constraint"
+                     /label="@No CTCGAG"
+                     /color="#355c87"
+                     /ApEinfo_fwdcolor="#355c87"
+                     /ApEinfo_revcolor="#355c87"
+     misc_feature    1..465
+                     /role="constraint"
+                     /label="@30-70% GC/50bp"
+                     /color="#355c87"
+                     /ApEinfo_fwdcolor="#355c87"
+                     /ApEinfo_revcolor="#355c87"
+     misc_feature    1..465
+                     /role="objective"
+                     /label="~best-codon-optimize (7108)"
+                     /color="#f9cd60"
+                     /ApEinfo_fwdcolor="#f9cd60"
+                     /ApEinfo_revcolor="#f9cd60"
+ORIGIN
+        1 atgtaccgta tgcagctgct gtcctgcatc gctctgtccc tggctctggt gaccaactcc
+       61 gctcctacct cctcctccac caagaagacc cagctgcagc tggagcacct gctgctggac
+      121 ctgcagatgg tgatcctgaa cggtatcaac aactacaaga accctaagct gacccgtatg
+      181 ctgaccttca agttctacat gcctaagaag gctaccgagc tgaagcacct gcagtgcctg
+      241 gaggaggagc tgaagcctct ggaggaggtg ctgaacctgg ctcagtccaa gaacttccac
+      301 ctgcgtcctc gtgacctgat ctccaacatc aacgtgatcg tgctggagct gaagggttcc
+      361 gagaccacct tcatgtgcga gtacgctgac gagaagaccg ctaccatcgt ggagttcctg
+      421 aaccgttgga tcaccttctg ccagtccatc atctccaccc tgacc
+//

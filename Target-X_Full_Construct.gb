@@ -1,0 +1,27 @@
+LOCUS       TargetX                  516 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Optimized IL-2 with HBM Signal and His-Tag.
+ACCESSION   Target-X_Sf9
+VERSION     Target-X_Sf9
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             13..507
+                     /translation="MKFLVNVALVFMVVYISYIYAAPTSSSTKKTQLQLEHLLLDLQMV
+                     ILNGINNYKNPKLTRMLTFKFYMPKKATELKHLQCLEEELKPLEEVLNLAQSKNFHLRP
+                     RDLISNINVIVLELKGSETTFMCEYADEKTATIVEFLNRWITFCQSIISTLTGSGHHHH
+                     HH"
+                     /codon_start=1
+                     /product="IL-2 Fusion Protein"
+ORIGIN
+        1 ggatccgccg ccatgaagtt cctggtgaac gtggctctgg tgttcatggt ggtgtacatc
+       61 tcctacatct acgctgctcc tacctcctcc tccaccaaga agacccagct gcagctggag
+      121 cacctgctgc tggacctgca gatggtgatc ctgaacggta tcaacaacta caagaaccct
+      181 aagctgaccc gcatgctgac cttcaagttc tacatgccta agaaggctac cgagctgaag
+      241 cacctgcagt gcctggagga ggagctgaag cctctggagg aggtgctgaa cctggctcag
+      301 tccaagaact tccacctgcg tcctcgtgac ctgatctcca acatcaacgt gatcgtgctg
+      361 gagctgaagg gttccgagac caccttcatg tgcgagtacg ctgacgagaa gaccgctacc
+      421 atcgtggagt tcctgaaccg ttggatcacc ttctgccagt ccatcatctc caccctgacc
+      481 ggttccggtc accaccacca ccaccactaa ctcgag
+//

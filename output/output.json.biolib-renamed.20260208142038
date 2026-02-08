@@ -1,0 +1,32 @@
+{
+  "INFO": {
+    "failedjobs": 0,
+    "size": 1
+  },
+  "CSV_FILE": "output/prediction_results.txt",
+  "MATURE_FILE": "output/processed_entries.fasta",
+  "GFF_FILE": "output/output.gff3",
+  "ZIP_FILE": "",
+  "SEQUENCES": {
+    "Target_X  = Human IL-2 Precursor": {
+      "Name": "Target_X  = Human IL-2 Precursor",
+      "Plot_eps": "output/output_Target_X____Human_IL_2_Precursor_plot.eps",
+      "Plot_png": "output/output_Target_X____Human_IL_2_Precursor_plot.png",
+      "Plot_txt": "output/output_Target_X____Human_IL_2_Precursor_plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9999
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 20 and 21. Probability 0.988927"
+    }
+  },
+  "FORMAT": "all",
+  "ORG": "eukarya",
+  "MODE": "slow",
+  "REGION_GFF_FILE": "output/region_output.gff3"
+}
