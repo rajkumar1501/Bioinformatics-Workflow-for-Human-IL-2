@@ -58,3 +58,26 @@ The Jupyter Notebook (`.ipynb`) in this repository covers the following modules:
 * **Boltz / AlphaFold:** 3D protein structure prediction.
 * **py3Dmol:** Interactive 3D visualization within the notebook.
 * **Matplotlib:** Plotting hydrophobicity profiles and confidence scores.
+
+## 💻 Usage
+
+To run this workflow locally, use Conda to manage the environment.
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/rajkumar1501/Bioinformatics-Workflow-for-Human-IL-2.git](https://github.com/rajkumar1501/Bioinformatics-Workflow-for-Human-IL-2.git)
+    cd Bioinformatics-Workflow-for-Human-IL-2
+    ```
+
+2.  **Create and Activate Environment:**
+    Install all dependencies automatically using the provided `environment.yml` file.
+    ```bash
+    conda env create -f environment.yml
+    conda activate il2_workflow
+    ```
+
+3.  **Run the Notebook:**
+    Launch Jupyter Notebook and open the main analysis file:
+    ```bash
+    jupyter notebook "Bioinformatics Workflow for Human IL-2.ipynb"
+    ```
