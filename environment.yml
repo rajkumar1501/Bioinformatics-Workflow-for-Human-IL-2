@@ -1,4 +1,4 @@
-name: protein_eng
+name: il2_workflow
 channels:
   - conda-forge
   - bioconda
@@ -279,4 +279,4 @@ dependencies:
       - types-requests==2.32.4.20260107
       - wandb==0.18.7
       - yarl==1.22.0
-prefix: /Users/rajkumar/miniconda3/envs/protein_eng
+prefix: /Users/rajkumar/miniconda3/envs/il2_workflow
